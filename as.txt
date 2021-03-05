@@ -1,0 +1,14 @@
+<div class="container">
+			   <div class="contact-fome">
+				<div class="input-class">
+					<input type="text" class="input" placeholder="Your Name" required>
+					<input type="email" class="input" placeholder="Your E-mail" required>
+					<input type="tel" class="input" placeholder="Phone" required>
+					<input type="text" class="input" placeholder="Subject">
+				</div>
+				<div class="msg">
+					<textarea placeholder="Message" cols="30" rows="10"></textarea>
+					<button class="btn" type="submit">Send</button>
+				</div>
+				</div>
+			</div>
